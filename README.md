@@ -115,6 +115,7 @@ git checkout newBranches
 # 姓名表：（注意昵称和链接之间需要有空格）
   - [lishuangqiang] (https://github.com/lishuangqiang)
   - [Zephyr] (https://github.com/Arther-liaopan)
+  - [zh-ao-ss] (https://github.com/zh-ao-ss)
 
 
 

@@ -23,7 +23,7 @@
 
 在正式尝试本次练习之前，我需要向你介绍<font class="text-color-01" color="#f44336">**两种方式**</font>完成这个任务：
 
-### 第一种方式：github网页端完成
+## 第一种方式：github网页端完成
 
 1. **fork我的仓库到你自己的仓库中。**
    ![2b3f11bf7f83e00622bd5331fd00b77](https://github.com/lishuangqiang/Collaborative-development/assets/142634204/9e43ceef-28d9-424c-b367-0c6389997725)
@@ -56,7 +56,7 @@
    ![完成提交](https://markdown.liuchengtu.com/work/uploads/upload_530842571f59077d870704167d17ee93.png)
 
 当我看到你的申请之后，如果检查无误，我就会将你的修改合并到我的仓库中。这时你就可以在我的仓库中看到你添加的昵称和github链接
-### 第二种方式：本地计算机完成
+## 第二种方式：本地计算机完成
 <font class="text-color-1" color="#f44336">这里需要用到git，因此如果你的电脑没有安装git，请先安装git。</font>
 
 
@@ -110,7 +110,7 @@ git checkout newBranches
 ![](https://markdown.liuchengtu.com/work/uploads/upload_36a4058455f26de3daaa1a4b7db5e008.png)
 之后点击****Create pull request****，我们就完成了一次修改提交。
 
-通过上述介绍，我提供了两种方式来供你完成本次练习。现在就开始吧！祝你能够顺利的走进开源的大门，和世界各地的开发者协同开发
+通过上述介绍，我提供了两种方式来供你完成本次练习。现在就开始吧！祝你能够顺利的走进开源的大门，和世界各地的开发者协同开发。
 
 # 姓名表：（注意昵称和链接之间需要有空格）
   - [lishuangqiang] (https://github.com/lishuangqiang)

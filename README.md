@@ -116,6 +116,7 @@ git checkout newBranches
   - [lishuangqiang] (https://github.com/lishuangqiang)
   - [Zephyr] (https://github.com/Arther-liaopan)
   - [zh-ao-ss] (https://github.com/zh-ao-ss)
+  - [xz] (htpps://github.com/xz)
 
 
 

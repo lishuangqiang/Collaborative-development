@@ -118,6 +118,7 @@ git checkout newBranches
   - [zh-ao-ss] (https://github.com/zh-ao-ss)
   - [xz] (htpps://github.com/xz)
   - [makerrrrrr] (https://github.com/makerrrrrr)
+  - [lrq] (https://github.com/Li-Ruiqi777)
 
 
 

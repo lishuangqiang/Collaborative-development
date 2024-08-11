@@ -119,7 +119,7 @@ git checkout newBranches
   - [xz] (htpps://github.com/xz)
   - [makerrrrrr] (https://github.com/makerrrrrr)
   - [lrq] (https://github.com/Li-Ruiqi777)
-
+  - [Hinar] (https://github.com/890mn)
 
 
 

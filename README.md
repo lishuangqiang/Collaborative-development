@@ -95,7 +95,7 @@ git branch newBranches
 
 ```
 
-​ 2.切换分支，在demo2.0这个分支进行创作不会影响master分支
+ 2.切换分支，在demo2.0这个分支进行创作不会影响master分支
 
 ```bash
 git checkout newBranches
@@ -120,7 +120,7 @@ git checkout newBranches
   - [makerrrrrr] (https://github.com/makerrrrrr)
   - [lrq] (https://github.com/Li-Ruiqi777)
   - [Hinar] (https://github.com/890mn)
-
+  - [NoNo] (https://github.com/lzh0627)
 
 
 

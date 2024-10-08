@@ -120,6 +120,7 @@ git checkout newBranches
   - [makerrrrrr] (https://github.com/makerrrrrr)
   - [lrq] (https://github.com/Li-Ruiqi777)
   - [Hinar] (https://github.com/890mn)
+  - [JM] (https://github.com/JM020117)
 
 
 

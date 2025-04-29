@@ -122,6 +122,7 @@ git checkout newBranches
   - [Hinar] (https://github.com/890mn)
   - [JM] (https://github.com/JM020117)
   - [WanzhouW] (https://github.com/WanzhouW)
+  - [pridelzh] (https://github.com/pridelzh)
 
 
 

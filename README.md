@@ -95,7 +95,7 @@ git branch newBranches
 
 ```
 
-​ 2.切换分支，在demo2.0这个分支进行创作不会影响master分支
+ 2.切换分支，在demo2.0这个分支进行创作不会影响master分支
 
 ```bash
 git checkout newBranches
@@ -122,7 +122,7 @@ git checkout newBranches
   - [Hinar] (https://github.com/890mn)
   - [JM] (https://github.com/JM020117)
   - [WanzhouW] (https://github.com/WanzhouW)
-
+  - [1996ysh] (https://github.com/1996ysh)
 
 
 
